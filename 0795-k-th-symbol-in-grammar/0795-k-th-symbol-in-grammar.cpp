@@ -6,7 +6,7 @@ int solve (int n , int k){
 
         return 0;
     }
-    int mid = (int)(pow(2, n - 1) / 2);
+    int mid = pow(2, n - 1) / 2;
     if(k<=mid){
         return solve(n-1,k);
 
