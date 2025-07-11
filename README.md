@@ -48,4 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0234-palindrome-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0795-k-th-symbol-in-grammar) |
+## Math
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0795-k-th-symbol-in-grammar) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
