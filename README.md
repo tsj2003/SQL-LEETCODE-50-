@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0795-k-th-symbol-in-grammar) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
