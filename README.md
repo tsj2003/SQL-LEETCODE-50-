@@ -62,10 +62,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0040-combination-sum-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0077-combinations) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
