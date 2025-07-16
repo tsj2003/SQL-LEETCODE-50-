@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0072-edit-distance) |
 | [3617-find-the-original-typed-string-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3617-find-the-original-typed-string-i) |
 ## Linked List
 |  |
@@ -76,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
