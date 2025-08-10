@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0072-edit-distance) |
 | [3617-find-the-original-typed-string-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3617-find-the-original-typed-string-i) |
 ## Linked List
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0234-palindrome-linked-list) |
