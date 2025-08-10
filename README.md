@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Backtracking
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0496-next-greater-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
