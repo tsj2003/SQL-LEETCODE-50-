@@ -51,7 +51,7 @@ public:
 
         while(head2 != NULL) {
             if(head2->val != head->val) {
-                return 0;
+                return false;
             }
             head = head -> next;
             head2 = head2 -> next;
