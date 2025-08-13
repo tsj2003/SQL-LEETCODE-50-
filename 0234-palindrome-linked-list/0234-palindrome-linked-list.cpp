@@ -13,9 +13,9 @@ class Solution {
 private:
     ListNode* getMid(ListNode* head ) {
         ListNode* slow = head;
-       ListNode* fast = head -> next;
+       ListNode* fast = head;
         
-        while(fast != NULL && fast-> next != NULL) {
+        while( fast-> next != NULL &&  fast-> next-> next != NULL) {
             fast = fast -> next -> next;
             slow = slow -> next;
         }
