@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0064-minimum-path-sum) |
+| [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
@@ -129,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0496-next-greater-element-i) |
 ## Bucket Sort
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
