@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0151-reverse-words-in-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0013-roman-to-integer) |
 | [0795-k-th-symbol-in-grammar](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0795-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
