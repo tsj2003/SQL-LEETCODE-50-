@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0151-reverse-words-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3617-find-the-original-typed-string-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
