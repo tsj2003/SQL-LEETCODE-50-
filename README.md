@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
