@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0795-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0173-binary-search-tree-iterator) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
