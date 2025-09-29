@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
