@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0070-climbing-stairs) |
 | [0795-k-th-symbol-in-grammar](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0795-k-th-symbol-in-grammar) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
@@ -384,4 +386,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0133-clone-graph) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
