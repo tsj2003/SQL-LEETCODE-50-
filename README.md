@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1111-minimum-score-triangulation-of-polygon) |
