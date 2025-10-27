@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1612-avoid-flood-in-the-city) |
+| [2169-simple-bank-system](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1612-avoid-flood-in-the-city) |
+| [2169-simple-bank-system](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2169-simple-bank-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bucket Sort
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0937-online-stock-span) |
+| [2169-simple-bank-system](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2169-simple-bank-system) |
 ## Queue
 |  |
 | ------- |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
