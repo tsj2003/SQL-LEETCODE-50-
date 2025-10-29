@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0794-swim-in-rising-water) |
