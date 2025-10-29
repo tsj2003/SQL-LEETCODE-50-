@@ -1,13 +1,11 @@
 class Solution {
 public:
-     bool allsetbit( int x){
-        return ((x & x+1) == 0);
-     }
+    
     int smallestNumber(int n) {
 
-        int res = n;
-        while(! allsetbit(res)){
-            res++;
+        int res = 1;
+        while( res<n){
+            res = 2*res + 1;
         }
         return res;
         
