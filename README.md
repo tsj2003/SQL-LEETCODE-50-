@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2169-simple-bank-system](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Matrix
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0011-container-with-most-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Union Find
 |  |
 | ------- |
