@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0794-swim-in-rising-water) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1019-squares-of-a-sorted-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1612-avoid-flood-in-the-city) |
 ## Dynamic Programming
@@ -483,5 +485,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0713-subarray-product-less-than-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
