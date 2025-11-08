@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0118-pascals-triangle) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0242-valid-anagram) |
