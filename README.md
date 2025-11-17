@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0242-valid-anagram) |
+| [0874-backspace-string-compare](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0874-backspace-string-compare) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-backspace-string-compare](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2288-count-operations-to-obtain-zero) |
