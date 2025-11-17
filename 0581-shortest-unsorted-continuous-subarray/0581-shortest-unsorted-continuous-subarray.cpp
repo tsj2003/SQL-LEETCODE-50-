@@ -18,19 +18,22 @@ public:
 
         for(int i = 0 ; i < n ;i++){
             if(nums[i] != sorted[i]){
+                if(a == -1)
                 a = i;
-                break;
+                else b = i;
+                
             }
+
 
             
         }
-        for(int i = n-1 ; i >=0 ; i--){
+        // for(int i = n-1 ; i >=0 ; i--){
 
-            if(nums[i] != sorted[i]){
-                b = i;
-                break;
-            }
-        }
+        //     if(nums[i] != sorted[i]){
+        //         b = i;
+        //         break;
+        //     }
+        // }
         // for(int i = 0 ;i<n-2;i++){
         //   if(nums[i]< nums[i+1] && nums[i+1] > nums[i+2]){
         //     if(a == -1) a = i+1;
@@ -52,3 +55,7 @@ public:
 
     }
 };
+// a= 1
+// b= 5
+// [2,6,4,8,10,9,15]
+// [2,4,6,8,9,10,15]
