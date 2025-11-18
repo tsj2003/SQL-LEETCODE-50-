@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0202-happy-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0795-k-th-symbol-in-grammar) |
 | [1642-water-bottles](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0496-next-greater-element-i) |
