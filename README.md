@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0141-linked-list-cycle](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0234-palindrome-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0133-clone-graph) |
+| [0141-linked-list-cycle](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0202-happy-number) |
