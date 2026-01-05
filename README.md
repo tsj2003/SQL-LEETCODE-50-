@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1975-maximum-matrix-sum) |
 | [2169-simple-bank-system](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0064-minimum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/0794-swim-in-rising-water) |
+| [1975-maximum-matrix-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Divide and Conquer
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/1975-maximum-matrix-sum) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tsj2003/SQL-LEETCODE-50-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Union Find
 |  |
