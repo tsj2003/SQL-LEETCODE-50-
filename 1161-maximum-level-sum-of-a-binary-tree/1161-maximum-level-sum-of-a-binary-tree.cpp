@@ -10,42 +10,38 @@
  * };
  */
 class Solution {
-public:
+public:    
+           map<int , int> mp;
+           void dfs(TreeNode* root ,  int level){
+
+               if(!root){
+                return;
+               }
+               mp[level]+= root->val;
+
+               dfs(root->left , level+1);
+               dfs(root->right , level + 1);
+
+           }
     int maxLevelSum(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-        int maxlevel = 0;
-        int maxsum =   INT_MIN;
-         int currlevel = 1;
+       dfs(root , 1);
+        int currlevel = 0;
+        int maxsum = INT_MIN;
+        for(auto &it : mp){
+        int level = it.first;
+        int sum = it.second;
 
+        
+         
+            if(sum > maxsum){
+                maxsum = sum;
+                currlevel = level;
+            
+            
 
-        while(!q.empty()){
-          int n = q.size();
-          int sum = 0 ;
-
-          while(n--){
-          TreeNode* temp = q.front();
-          q.pop();
-          sum += temp->val;
-
-          if(temp->left ){
-            q.push(temp->left);
-          }
-          if(temp->right ){
-            q.push(temp->right);
-          }
-          }
-          if(sum > maxsum){
-            maxsum = sum;
-            maxlevel = currlevel;
-          }
-
-           
-        currlevel++;
-
-
+         }
         }
-        return maxlevel;
+         return currlevel;
         
     }
 };
